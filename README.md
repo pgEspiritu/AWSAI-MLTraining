@@ -20,3 +20,6 @@ This repository covers the contextual understanding of Artificial Intelligence, 
 ---
 
 
+## 🙏 Acknowledgments
+
+This learning content is adapted from the **Udacity "Introducing Generative AI with AWS" course**, part of the [AI Programming with AWS Nanodegree](https://www.udacity.com/) program. All credit goes to the original course creators and instructors for providing valuable educational material and interactive learning experiences.
