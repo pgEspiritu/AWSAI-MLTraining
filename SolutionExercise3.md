@@ -84,7 +84,7 @@ Here’s how to visualize the trained model:
 - Helps you understand model decisions
 - Reveals which features influence churn most
 
-![Graph showing Decision Tree for Predicting Customer Churn](Exercise3.jpg)  
+![Graph showing Decision Tree for Predicting Customer Churn](Exercise3.jpeg)  
 
 ---
 
