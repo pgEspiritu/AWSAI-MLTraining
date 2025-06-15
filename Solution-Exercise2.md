@@ -21,7 +21,7 @@ In this exercise, you trained a **RandomForestRegressor** model to predict the e
 > 📌 **Reminder:**  
 > Be sure to delete the notebook instance after you're done to avoid unnecessary usage.
 
-![Graph showing True Values vs Predicted Values of supervised model](#)  
+![Graph showing True Values vs Predicted Values of supervised model](TrueValuesVSPredictedValues.jpg)  
 **True Values vs Predicted Values**
 
 ---
