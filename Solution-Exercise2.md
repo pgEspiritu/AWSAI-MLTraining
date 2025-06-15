@@ -45,7 +45,7 @@ In this exercise, you used **KMeans clustering** to group vehicles based on feat
 > 📌 **Reminder:**  
 > Be sure to delete the notebook instance after you're done to avoid unnecessary usage.
 
-![Vehicle Clustering](#)  
+![Vehicle Clustering](VehicleClusters.jpeg)  
 As discussed above, this scatter plot visually depicts how vehicles are grouped based on **weight** and **horsepower**.  
 There are **three distinct groups**.
 
