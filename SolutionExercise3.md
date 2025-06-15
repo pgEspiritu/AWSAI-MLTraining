@@ -62,7 +62,7 @@ When visualizing the decision tree using Scikit-learn, each node in the tree con
   from sklearn.metrics import accuracy_score
   accuracy = accuracy_score(y_test, y_pred)
   print(f"Model Accuracy: {accuracy}")
- ```
+  ```
 
 ---
 
@@ -80,9 +80,11 @@ Here’s how to visualize the trained model:
   plt.show()
   ```
 
-### This visualization:
+### This visualization: 
 - Helps you understand model decisions
 - Reveals which features influence churn most
+
+![Graph showing Decision Tree for Predicting Customer Churn](Exercise3.jpg)  
 
 ---
 
