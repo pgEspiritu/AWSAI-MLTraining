@@ -23,13 +23,13 @@ This repository covers the contextual understanding of Artificial Intelligence, 
 
 | **#** | **Subtopic** | **Description** |
 |------:|--------------|-----------------|
-| 1 | [**Artificial Intelligence: Machine Learning**](Artificial%20Intelligence%20Machine%20Learning.md) | Understand how ML fits within the broader field of AI and explore real-world applications. |
-| 2 | [**What is Machine Learning**](What%20is%20Machine%20Learning.md) | Learn what ML is, how machines learn from data, and different types of learning techniques. |
-| 3 | [**Demo: Machine Learning**](Demo%20Machine%20Learning.md) | Walk through a basic ML demo to see key concepts in action. |
-| 4 | [**Types of Machine Learning**](Types%20of%20Machine%20Learning.md) | Explore the three main types of ML: supervised, unsupervised, and reinforcement learning. |
-| 5 | [**Practice Using Jupyter Notebook**](Practice%20Using%20Jupyter%20Notebook.md) | Practice setting up and using Jupyter Notebook for data science and ML experiments. |
-| 6 | [**Exercise: Supervised vs Unsupervised**](Exercise%20Supervised%20vs%20Unsupervised.md) | Test your understanding of the differences between supervised and unsupervised learning. |
-| 7 | [**Solution: Exercise: Supervised vs Unsupervised**](Solution%20Supervised%20vs%20Unsupervised.md) | Review the solutions to the supervised vs unsupervised learning exercise. |
+| 1 | [**Artificial Intelligence: Machine Learning**](MachineLearningIntro.md) | Understand how ML fits within the broader field of AI and explore real-world applications. |
+| 2 | [**What is Machine Learning**](MachineLearning.md) | Learn what ML is, how machines learn from data, and different types of learning techniques. |
+| 3 | [**Demo: Machine Learning**](MachineLearningDemo.md) | Walk through a basic ML demo to see key concepts in action. |
+| 4 | [**Types of Machine Learning**](TypesOfML.md) | Explore the three main types of ML: supervised, unsupervised, and reinforcement learning. |
+| 5 | [**Practice Using Jupyter Notebook**](PracticeUsingJupyter.md) | Practice setting up and using Jupyter Notebook for data science and ML experiments. |
+| 6 | [**Exercise: Supervised vs Unsupervised**](Exercise2-SupervisedAndUnsupervised.md) | Test your understanding of the differences between supervised and unsupervised learning. |
+| 7 | [**Solution: Exercise: Supervised vs Unsupervised**](SolutionExercise2.md) | Review the solutions to the supervised vs unsupervised learning exercise. |
 | 8 | [**Algorithms and Models**](Algorithms%20and%20Models.md) | Understand the distinction between ML algorithms and models and how they work together. |
 | 9 | [**Exercise: Decision Tree**](Exercise%20Decision%20Tree.md) | Apply your knowledge by creating a decision tree for a sample dataset. |
 |10 | [**Solution: Decision Tree**](Solution%20Decision%20Tree.md) | Go through the solution and explanation of the Decision Tree exercise. |
