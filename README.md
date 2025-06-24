@@ -30,7 +30,7 @@ This repository covers the contextual understanding of Artificial Intelligence, 
 | 5 | [**Practice Using Jupyter Notebook**](PracticeUsingJupyter.md) | Practice setting up and using Jupyter Notebook for data science and ML experiments. |
 | 6 | [**Exercise: Supervised vs Unsupervised**](Exercise2-SupervisedAndUnsupervised.md) | Test your understanding of the differences between supervised and unsupervised learning. |
 | 7 | [**Solution: Exercise: Supervised vs Unsupervised**](SolutionExercise2.md) | Review the solutions to the supervised vs unsupervised learning exercise. |
-| 8 | [**Algorithms and Models**](Algorithms%20and%20Models.md) | Understand the distinction between ML algorithms and models and how they work together. |
+| 8 | [**Algorithms and Models**](AlgorithmsAndModel.md) | Understand the distinction between ML algorithms and models and how they work together. |
 | 9 | [**Exercise: Decision Tree**](Exercise%20Decision%20Tree.md) | Apply your knowledge by creating a decision tree for a sample dataset. |
 |10 | [**Solution: Decision Tree**](Solution%20Decision%20Tree.md) | Go through the solution and explanation of the Decision Tree exercise. |
 |11 | [**Exercise: Neural Networks**](Exercise%20Neural%20Networks.md) | Dive into the basics of neural networks through a hands-on activity. |
