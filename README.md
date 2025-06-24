@@ -35,7 +35,7 @@ This repository covers the contextual understanding of Artificial Intelligence, 
 |10 | [**Solution: Decision Tree**](SolutionExercise3.md) | Go through the solution and explanation of the Decision Tree exercise. |
 |11 | [**Exercise: Neural Networks**](Exercise4-NueralNetwork.md) | Dive into the basics of neural networks through a hands-on activity. |
 |12 | [**Solution: Neural Networks**](SolutionExercise4.md) | Review and understand the solution to the Neural Networks exercise. |
-|13 | [**Discriminative, Predictive, and Generative AI**](Discriminative%20Predictive%20Generative%20AI.md) | Learn the differences between these three AI types and where they’re used. |
+|13 | [**Discriminative, Predictive, and Generative AI**](Discriminative&PredictiveAI.md) | Learn the differences between these three AI types and where they’re used. |
 
 ---
 
